@@ -1,0 +1,28 @@
+line 7 column 1 - Warning: link lacks "type" attribute
+line 8 column 1 - Warning: link lacks "type" attribute
+line 9 column 1 - Warning: link lacks "type" attribute
+line 19 column 1 - Warning: unknown attribute "data-search-terms"
+line 27 column 5 - Warning: <script> lacks "type" attribute
+line 28 column 5 - Warning: <script> lacks "type" attribute
+line 29 column 5 - Warning: <script> lacks "type" attribute
+line 30 column 5 - Warning: <script> lacks "type" attribute
+line 31 column 5 - Warning: <script> lacks "type" attribute
+line 32 column 5 - Warning: <script> lacks "type" attribute
+line 33 column 5 - Warning: <script> lacks "type" attribute
+line 34 column 5 - Warning: link lacks "type" attribute
+line 34 column 5 - Warning: link isn't allowed in <body> elements
+line 35 column 5 - Warning: link lacks "type" attribute
+line 35 column 5 - Warning: link isn't allowed in <body> elements
+line 36 column 5 - Warning: link lacks "type" attribute
+line 36 column 5 - Warning: link isn't allowed in <body> elements
+line 37 column 5 - Warning: link lacks "type" attribute
+line 37 column 5 - Warning: link isn't allowed in <body> elements
+line 38 column 5 - Warning: link lacks "type" attribute
+line 38 column 5 - Warning: link isn't allowed in <body> elements
+line 39 column 5 - Warning: link lacks "type" attribute
+line 39 column 5 - Warning: link isn't allowed in <body> elements
+line 42 column 5 - Warning: <script> lacks "type" attribute
+line 45 column 5 - Warning: <script> lacks "type" attribute
+InputStream: Doctype given is ""
+InputStream: Document content looks like HTML 4.01
+25 warnings, no errors were found!
